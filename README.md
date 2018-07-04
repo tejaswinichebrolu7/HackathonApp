@@ -1,1 +1,1 @@
-# HackathonApp
+# Hackathon
